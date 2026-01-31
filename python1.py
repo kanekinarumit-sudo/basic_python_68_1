@@ -40,3 +40,9 @@ _my_var = 300
 myVar = 400
 MYVAR = 500
 
+myVariableName = 900
+
+myVariableName = 1000
+
+my_variable_name = 1100
+

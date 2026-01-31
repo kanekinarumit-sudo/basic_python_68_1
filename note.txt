@@ -1,0 +1,23 @@
+git clone https://github.com/kanekinarumit-sudo/basic_python_68_1.git
+
+cd name_folder              #การเข้าโฟรเดอร์
+cd..                        #การออกจากโปรแกรม
+ls
+ls-al                       #แสดงไฟล์และโฟรเดอร์ทั้งหมด      
+pwd                         #ถาดเราคืออะไร
+
+code .                      #เปิดโปรแกรม vs code
+antigravity                 #เปิด antigravity
+
+
+git init                    #การทำให้โปรดกอร์รู้จัก git
+git remote add origin git clone https://github.com/kanekinarumit-sudo/basic_python_68_1.git 
+
+ git config --global user.name"Narumit"
+ git config --global user.email"Narumit@gmail.com"
+
+ git add.
+ git commit -m "your message"    #"" ใส่รายละเอียดการแก้ไข
+ git push orgin main               #ส่งไปsave 
+
+ git pull orgin main 
